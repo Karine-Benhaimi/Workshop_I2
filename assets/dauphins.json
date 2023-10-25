@@ -1,0 +1,62 @@
+[
+  {
+    "Nom": "Dauphin1",
+    "ID": 1234,
+    "Genre": "Mâle",
+    "Statut": "Immobile",
+    "Emplacement": {
+      "Latitude": 46.706642,
+      "Longitude": -2.933262
+    }
+  },
+  {
+    "Nom": "Dauphin2",
+    "ID": 5678,
+    "Genre": "Femelle",
+    "Statut": "Actif",
+    "Emplacement": {
+      "Latitude": 42.594014,
+      "Longitude": 3.677571
+    }
+  },
+  {
+    "Nom": "Dauphin3",
+    "ID": 9876,
+    "Genre": "Mâle",
+    "Statut": "Immobile",
+    "Emplacement": {
+      "Latitude": 45.011643,
+      "Longitude": -1.619468
+    }
+  },
+  {
+    "Nom": "Dauphin4",
+    "ID": 4321,
+    "Genre": "Femelle",
+    "Statut": "Actif",
+    "Emplacement": {
+      "Latitude": 44.984365,
+      "Longitude": -3.736524
+    }
+  },
+  {
+    "Nom": "Dauphin5",
+    "ID": 7890,
+    "Genre": "Mâle",
+    "Statut": "Immobile",
+    "Emplacement": {
+      "Latitude": 42.958508,
+      "Longitude": 3.832240
+    }
+  },
+  {
+    "Nom": "Dauphin6",
+    "ID": 6543,
+    "Genre": "Femelle",
+    "Statut": "Actif",
+    "Emplacement": {
+      "Latitude": 44.563985,
+      "Longitude": -1.751090
+    }
+  }
+]

@@ -7,6 +7,7 @@ import 'package:projet_inno/Statistiques.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class StatistiquesScreen extends StatelessWidget {
+  int _currentIndex =0;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -15,10 +16,26 @@ class StatistiquesScreen extends StatelessWidget {
         backgroundColor: Color(0xFF093B7D),
       ),
       // Contenu de l'écran
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       bottomNavigationBar: BottomNavigationBar(
 
         selectedItemColor: Color(0xFF093B7D),
         unselectedItemColor: Colors.grey,
+        currentIndex: _currentIndex,
         items: [
           BottomNavigationBarItem(
             icon: Icon(Icons.home),
